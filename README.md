@@ -100,4 +100,4 @@ MIT License —— 自由使用、修改、分发。
 ## 关于
 
 - 开发者：SeaChange
-- 产品介绍页：https://china-seachange.github.io/niumanote/
+- 产品介绍页：https://china-seachange.github.io/notema/
